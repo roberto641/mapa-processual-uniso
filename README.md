@@ -1,2 +1,2 @@
 # mapa-processual-uniso
-Mapa de todo processo logístico da Uniso, desde o recebimento do container, a separação, organização e disponibilização do produto ao cliente.
+Painel institucional estático de consulta aos fluxos de Atacado, Reposição, Flow Hub e Posições de Estoque.
